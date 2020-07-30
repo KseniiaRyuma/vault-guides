@@ -81,6 +81,7 @@
 
 # vault_tags = {"owner" = "hashicorp", "TTL" = "24"}
 
+
 # vault_tags_list = [
 #   {"key" = "owner", "value" = "hashicorp", "propagate_at_launch" = true},
 #   {"key" = "TTL", "value" = "24", "propagate_at_launch" = true}
